@@ -1,0 +1,15 @@
+{
+  "private": true,
+  "name": "node-carto-code-test",
+  "version": "1.0.0",
+  "main": "server.js",
+  "keywords": [],
+  "author": "",
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "mapnik": "3.6.2"
+  },
+  "scripts": {
+    "mapnik-example": "node mapnik-example.js"
+  }
+}
